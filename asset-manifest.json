@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.js": "/nosmoking-homepage/static/js/main.7126fc5b.js",
+    "static/media/intro1.png": "/nosmoking-homepage/static/media/intro1.837577d1a7cb76f0c7f6.png",
+    "static/media/invite1.png": "/nosmoking-homepage/static/media/invite1.2b1233657250eaac240e.png",
+    "static/media/main1.png": "/nosmoking-homepage/static/media/main1.14434181048e6ec50014.png",
+    "static/media/chatting.png": "/nosmoking-homepage/static/media/chatting.9f9d166875b8345539ef.png",
+    "static/media/nosmoking_news.png": "/nosmoking-homepage/static/media/nosmoking_news.1abd04a1490a08eb2729.png",
+    "static/media/community2.png": "/nosmoking-homepage/static/media/community2.ca811ba96893b324a6ab.png",
+    "static/media/patch2.png": "/nosmoking-homepage/static/media/patch2.688db4906d45595a6f5d.png",
+    "static/media/patch1.png": "/nosmoking-homepage/static/media/patch1.71e31ba1b2b6e1433c4e.png",
+    "static/media/mission1.png": "/nosmoking-homepage/static/media/mission1.fee87972deb4df84f391.png",
+    "static/media/mission2.png": "/nosmoking-homepage/static/media/mission2.a47cb72ef4e720f236cd.png",
+    "static/media/main2.png": "/nosmoking-homepage/static/media/main2.9a0b74384e7cdd86ffe8.png",
+    "static/media/intro2.png": "/nosmoking-homepage/static/media/intro2.b18aa9ce740597e296e0.png",
+    "static/media/health1.png": "/nosmoking-homepage/static/media/health1.c1aa6bfe5da34793d926.png",
+    "static/media/health2.png": "/nosmoking-homepage/static/media/health2.08ccee1e640e51ef413f.png",
+    "static/media/mission3.png": "/nosmoking-homepage/static/media/mission3.ea343793a09dcf734c85.png",
+    "static/media/community1.png": "/nosmoking-homepage/static/media/community1.5fc2b4dcd1abc8cf781b.png",
+    "static/media/invite2.png": "/nosmoking-homepage/static/media/invite2.c180f147fbbb9ff5cd38.png",
+    "static/media/mission4.png": "/nosmoking-homepage/static/media/mission4.f306c5e29fb49c4c3635.png",
+    "static/media/room.png": "/nosmoking-homepage/static/media/room.e17f8d14aad6853e92ae.png",
+    "static/media/counselor.png": "/nosmoking-homepage/static/media/counselor.81c323d4e2df1e946ffe.png",
+    "static/media/main_title.png": "/nosmoking-homepage/static/media/main_title.33a1544dfd9eded448b6.png",
+    "index.html": "/nosmoking-homepage/index.html",
+    "main.7126fc5b.js.map": "/nosmoking-homepage/static/js/main.7126fc5b.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.7126fc5b.js"
+  ]
+}
