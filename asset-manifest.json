@@ -1,9 +1,10 @@
 {
   "files": {
-    "main.js": "/nosmoking-homepage/static/js/main.ab0207ab.js",
+    "main.js": "/nosmoking-homepage/static/js/main.9ebd702b.js",
     "static/media/intro1.png": "/nosmoking-homepage/static/media/intro1.837577d1a7cb76f0c7f6.png",
     "static/media/invite1.png": "/nosmoking-homepage/static/media/invite1.2b1233657250eaac240e.png",
     "static/media/main1.png": "/nosmoking-homepage/static/media/main1.14434181048e6ec50014.png",
+    "static/media/hp_image.jpg": "/nosmoking-homepage/static/media/hp_image.4090432b37a5faafa0f8.jpg",
     "static/media/chatting.png": "/nosmoking-homepage/static/media/chatting.9f9d166875b8345539ef.png",
     "static/media/nosmoking_news.png": "/nosmoking-homepage/static/media/nosmoking_news.1abd04a1490a08eb2729.png",
     "static/media/community2.png": "/nosmoking-homepage/static/media/community2.ca811ba96893b324a6ab.png",
@@ -19,13 +20,12 @@
     "static/media/community1.png": "/nosmoking-homepage/static/media/community1.5fc2b4dcd1abc8cf781b.png",
     "static/media/invite2.png": "/nosmoking-homepage/static/media/invite2.c180f147fbbb9ff5cd38.png",
     "static/media/mission4.png": "/nosmoking-homepage/static/media/mission4.f306c5e29fb49c4c3635.png",
-    "static/media/room.png": "/nosmoking-homepage/static/media/room.e17f8d14aad6853e92ae.png",
-    "static/media/counselor.png": "/nosmoking-homepage/static/media/counselor.81c323d4e2df1e946ffe.png",
-    "static/media/main_title.png": "/nosmoking-homepage/static/media/main_title.33a1544dfd9eded448b6.png",
+    "static/media/meta_img.png": "/nosmoking-homepage/static/media/meta_img.dd10ebe488852578636e.png",
+    "static/media/logo.png": "/nosmoking-homepage/static/media/logo.c9854813faece303bc4c.png",
     "index.html": "/nosmoking-homepage/index.html",
-    "main.ab0207ab.js.map": "/nosmoking-homepage/static/js/main.ab0207ab.js.map"
+    "main.9ebd702b.js.map": "/nosmoking-homepage/static/js/main.9ebd702b.js.map"
   },
   "entrypoints": [
-    "static/js/main.ab0207ab.js"
+    "static/js/main.9ebd702b.js"
   ]
 }
