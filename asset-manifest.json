@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/nosmoking-homepage/static/js/main.9ebd702b.js",
+    "main.js": "/nosmoking-homepage/static/js/main.cdc7f7c2.js",
     "static/media/intro1.png": "/nosmoking-homepage/static/media/intro1.837577d1a7cb76f0c7f6.png",
     "static/media/invite1.png": "/nosmoking-homepage/static/media/invite1.2b1233657250eaac240e.png",
     "static/media/main1.png": "/nosmoking-homepage/static/media/main1.14434181048e6ec50014.png",
@@ -23,9 +23,9 @@
     "static/media/meta_img.png": "/nosmoking-homepage/static/media/meta_img.dd10ebe488852578636e.png",
     "static/media/logo.png": "/nosmoking-homepage/static/media/logo.c9854813faece303bc4c.png",
     "index.html": "/nosmoking-homepage/index.html",
-    "main.9ebd702b.js.map": "/nosmoking-homepage/static/js/main.9ebd702b.js.map"
+    "main.cdc7f7c2.js.map": "/nosmoking-homepage/static/js/main.cdc7f7c2.js.map"
   },
   "entrypoints": [
-    "static/js/main.9ebd702b.js"
+    "static/js/main.cdc7f7c2.js"
   ]
 }
